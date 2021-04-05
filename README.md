@@ -1,1 +1,1 @@
-# linguistic_data_anlysis_R
+# linguistic_data_analysis_R
